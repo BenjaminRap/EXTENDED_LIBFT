@@ -1,0 +1,6 @@
+*.o
+gnl.a
+list.a
+printf.a
+libft.a
+extendedlibft.a
